@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <a href="https://seunghunwi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistoty-blue?style=flat-square&logo=blogger&logoColor=white"/></a>  <a href="https://github.com/seunghunwi" target="_blank"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/></a> <a href="mailto:dnltmdgns159@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a> 
 </p>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoonjae&&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghunwi&&show_icons=true&theme=onedark)
  
 </div>
