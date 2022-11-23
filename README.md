@@ -1,5 +1,5 @@
 <!--
-**yeoonjae/yeoonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seunghunwi/seunghunwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 
 <div align = 'center'>
 
-# 🏻 **Wi Seung Hun**
+# 🏻:boy: **Wi Seung Hun**
 
- 💻 **I'm a Backend Develover**    
- 🎈 **I'm working in South Korea**
- <br> 😊 **I enjoy learning** 
- 
  
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <br>
