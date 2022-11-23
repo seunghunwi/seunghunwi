@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghunwi)](https://github.com/seunghunwi/github-readme-stats)
 <!--
 **seunghunwi/seunghunwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
