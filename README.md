@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <div align = 'center'>
 
 # 🏻:boy: **Wi Seung Hun**
-
+ 
+ 💬 성장하고싶은 백엔드 개발자 입니다🤔
+ 💬 한국에 살고 있습니다😄
  
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <br>
