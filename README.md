@@ -4,7 +4,9 @@
 **seunghunwi/seunghunwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<style>
 <img src="https://img.shields.io/badge/윗으훈-black?style=flat-square&logo=안녕&logoColor=black"/>
+</style>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
