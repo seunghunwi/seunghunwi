@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 <style>
-<img src="https://img.shields.io/badge/윗으훈-black?style=flat-square&logo=안녕&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 </style>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
